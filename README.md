@@ -25,6 +25,10 @@ We explored three distinct model specifications: Macro-trends, Female Empowermen
 Our findings underscore the complexity of the relationship between economic variables, government policies, and innovation within OECD countries. This complexity underscores the importance of considering gender-related factors and the need for further exploration of unexpected results, potential biases, and the intricate dynamics between different components of public expenditure and innovation. Our study sets the stage for future discussions, particularly focusing on variables that may shed light on endogeneity issues and deepen our understanding of the innovation landscape within OECD economies.
 
 
+## Acknowledgments:
+We acknowledge the support of Elia Landini, Mi Tra Lee & Veronica Manusardi (Pantheon-Sorbonne University) in the development of this project.
+
+
 
 
 
