@@ -26,7 +26,7 @@ Our findings underscore the complexity of the relationship between economic vari
 
 
 ## Acknowledgments:
-We acknowledge the support of Elia Landini, Mi Tra Lee & Veronica Manusardi (Pantheon-Sorbonne University) in the development of this project.
+We acknowledge the support of Elia Landini (Pantheon-Sorbonne University) in the development of this project.
 
 
 
